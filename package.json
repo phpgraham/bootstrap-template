@@ -2,7 +2,7 @@
   "title": "Agency",
   "name": "startbootstrap-agency",
   "version": "4.0.0-beta.2",
-  "description": "Agency is a one page HTML theme for Bootstrap.",
+  "description": "One page HTML theme for Bootstrap.",
   "keywords": [
     "css",
     "sass",
@@ -17,11 +17,11 @@
     "email": ""
   },
   "license": "MIT",
-  "author": "",
-  "contributors": "",
+  "author": "phpGraham",
+  "contributors": "phpGraham",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/phpgraham/bootstrap-template"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
